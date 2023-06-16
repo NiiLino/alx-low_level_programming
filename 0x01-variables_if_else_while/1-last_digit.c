@@ -6,11 +6,11 @@
 /* betty style doc for function main goes there */
 /**
  * main - Entry point
- * RETURN: Always 0 (Success)
+ * RETURN: 0 (Success)
  */
 int main(void)
 {
-	int n;
+	int n, m;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;

@@ -1,6 +1,6 @@
 #include <unistd.h>
 /*
- * main - A c program that prints a line to the standard error
+ * main - Entry point
  *
  * Return: Always 1 (success)
  */

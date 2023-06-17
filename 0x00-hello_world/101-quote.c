@@ -2,7 +2,7 @@
 /*
  * main - A c program that prints a line to the standard error
  *
- * Retturn: Always 1 (success)
+ * Return: Always 1 (success)
  */
 int main(void)
 {

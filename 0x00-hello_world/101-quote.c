@@ -1,7 +1,7 @@
 #include <unistd.h>
 /*
- * main - print "and that piece of art is useful" - Dora Korpar, 2015-10-19",
- * followed by a newline, to the standard error.
+ * main - A c program that prints a line to the standard error
+ *
  * Retturn: Always 1 (success)
  */
 int main(void)
